@@ -10,3 +10,7 @@
 ```python
   h1 = print('h1 written')
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
